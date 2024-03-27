@@ -1,0 +1,10 @@
+C:\Users\User\Documents\projects\randomNumbers\randomNumbers\bin\Debug\randomNumbers.exe.config
+C:\Users\User\Documents\projects\randomNumbers\randomNumbers\bin\Debug\randomNumbers.exe
+C:\Users\User\Documents\projects\randomNumbers\randomNumbers\bin\Debug\randomNumbers.pdb
+C:\Users\User\Documents\projects\randomNumbers\randomNumbers\obj\Debug\randomNumbers.csproj.AssemblyReference.cache
+C:\Users\User\Documents\projects\randomNumbers\randomNumbers\obj\Debug\randomNumbers.RandoNumberGenerator.resources
+C:\Users\User\Documents\projects\randomNumbers\randomNumbers\obj\Debug\randomNumbers.Properties.Resources.resources
+C:\Users\User\Documents\projects\randomNumbers\randomNumbers\obj\Debug\randomNumbers.csproj.GenerateResource.cache
+C:\Users\User\Documents\projects\randomNumbers\randomNumbers\obj\Debug\randomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\projects\randomNumbers\randomNumbers\obj\Debug\randomNumbers.exe
+C:\Users\User\Documents\projects\randomNumbers\randomNumbers\obj\Debug\randomNumbers.pdb
